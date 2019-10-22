@@ -78,6 +78,7 @@ extern ADIUltrasonic leftUltra;
 extern ADIUltrasonic rightUltra;
 
 extern ADIPotentiometer liftyPent;
+extern ADIDigitalIn stackyPent;
 extern ADIDigitalIn downis;
 extern ADIDigitalIn boistop;
 
